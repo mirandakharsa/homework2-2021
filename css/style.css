@@ -8,6 +8,10 @@ h1{
     padding: 10px 10px 10px 10px;
     text-align: center
 }
+.div{
+    height: 150px;
+}
+
 #red{
     background-color:#FF0000;
     padding: 25px 25px 25px 25px;
@@ -57,9 +61,8 @@ img{
 }
 
 footer{
-    padding:0px 10px 10px 0px
+    padding:0px 10px 10px 0px;
     text-align: center;
-    padding: 25px 25px 25px 25px;
 }
 
 
