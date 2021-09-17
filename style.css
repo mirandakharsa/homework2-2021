@@ -9,14 +9,13 @@ h1{
     text-align: center
 }
 .div{
-    height: 150px;
+    min-height: 150px;
 }
 
 #red{
     background-color:#FF0000;
     padding: 25px 25px 25px 25px;
     text-align: right;
-    height: 150px;
 }
 h2{
     font-size: 32px;
@@ -36,8 +35,6 @@ img{
     background-color: #0000FF;
     text-align: left;
     padding: 25px 25px 25px 25px;
-    height: 150px;
-
 }
 
 #yellow{
@@ -45,7 +42,6 @@ img{
     text-align: right;
     padding: 25px 25px 25px 25px;
     color: black;
-    height: 150px;
 
 }
 
@@ -57,10 +53,9 @@ img{
     background-color: #008000;
     text-align: left;
     padding: 25px 25px 25px 25px;
-    height: 150px;
 }
 
-footer{
+footer p{
     padding:0px 10px 10px 0px;
     text-align: center;
 }
